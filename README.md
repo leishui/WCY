@@ -1,5 +1,7 @@
 # We重邮有关每日打卡的一些接口分享
 ***
+2022/5/12 新增[三小时离校申请接口](https://github.com/leishui/WCY/blob/main/We%E9%87%8D%E9%82%AE%E6%8E%A5%E5%8F%A3%E7%A6%BB%E6%A0%A1.md)
+***
 2022/3/29 新增了渝康码颜色选项`"jkmresult":"绿色"`
 ***
 ## 一、打卡接口
